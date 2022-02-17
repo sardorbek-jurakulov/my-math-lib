@@ -1,5 +1,5 @@
 {
-  "name": "my-math-lib",
+  "name": "our-simple-math-lib",
   "version": "1.0.0",
   "description": "A simple library for performing math operations",
   "main": "index.js",
